@@ -88,3 +88,4 @@ function changeTextColor() {
     const sampleText = document.getElementById('sampleText');
     sampleText.style.color = color;
 }
+
